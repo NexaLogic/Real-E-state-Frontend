@@ -14,33 +14,11 @@ Welcome to MyRealEstateWebsite! This is a comprehensive platform designed to rev
 - **Admin Panel:** Manage listings, users, and site settings efficiently with our intuitive admin panel.
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Frontend:** HTML, CSS, JavaScript, Vue.js
 - **Backend:** Python, Django
-- **Database:** PostgreSQL
+- **Database:** PostgreSQL, SQlite3
 - **Mapping:** Mapbox API
 - **Authentication:** JWT Authentication
-
-## Installation
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/MyRealEstateWebsite.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd MyRealEstateWebsite
-   ```
-3. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-4. Run migrations:
-   ```
-   python manage.py migrate
-   ```
-5. Start the development server:
-   ```
-   python manage.py runserver
-   ```
 
 ## Contributing
 We welcome contributions from the community to enhance MyRealEstateWebsite further. To contribute, please follow these steps:
@@ -50,11 +28,5 @@ We welcome contributions from the community to enhance MyRealEstateWebsite furth
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to the branch (`git push origin feature/improvement`).
 6. Create a new Pull Request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-Have any questions or suggestions? Feel free to reach out to us at [contact@myrealestatewebsite.com](mailto:contact@myrealestatewebsite.com).
 
 ---
